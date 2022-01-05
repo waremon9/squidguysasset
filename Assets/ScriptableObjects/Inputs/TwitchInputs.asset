@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd8b5323a25ba9d4bb2212ac15272e3d, type: 3}
+  m_Name: TwitchInputs
+  m_EditorClassIdentifier: 
+  gameInputs:
+  - {fileID: 11400000, guid: a40a3a982b0dd564ea0665164657391d, type: 2}
+  - {fileID: 11400000, guid: 3e1771290cc4b0f4c8e4ef5df5873559, type: 2}
+  - {fileID: 11400000, guid: 9883adcf29632064982070549fc3ca2c, type: 2}
+  - {fileID: 11400000, guid: ed21ecf2e0148bc4d85b4be4244af732, type: 2}
+  - {fileID: 11400000, guid: 93609090ea4112845bcdfe6b96599741, type: 2}
+  - {fileID: 11400000, guid: fa93b7b5bc603b24889652433fe4c190, type: 2}
+  - {fileID: 11400000, guid: c68fb76743bd3d745a501b31902bad92, type: 2}
+  - {fileID: 11400000, guid: d8ca3c3e429c7504eaff914f7d0ebb0a, type: 2}
+  - {fileID: 11400000, guid: e346d5cce6865004b9f0a5b30ae80c60, type: 2}
+  - {fileID: 11400000, guid: b1fa3e4d8c7ad6948885f6f1ea23f114, type: 2}
+  - {fileID: 11400000, guid: 02beb2c0fc06097458878a50b72a4a2c, type: 2}
+  - {fileID: 11400000, guid: 4ab29e9e0ac90c046be4efa1eaa03a8c, type: 2}
+  - {fileID: 11400000, guid: edefb8d0f3f4c5d4fb5abbaaab1385ac, type: 2}
